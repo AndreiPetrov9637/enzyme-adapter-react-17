@@ -1940,10 +1940,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wojtekmaj/async-array-utils@npm:^1.6.1":
-  version: 1.6.1
-  resolution: "@wojtekmaj/async-array-utils@npm:1.6.1"
-  checksum: 77817787b7dbc880cc9e0405ba50faf60662cb7c6961e93bc910efa3f5fb4479417d826a6c2f816e076a3d855577a39d734d4fe30afbb09478d56746f998629d
+"@wojtekmaj/async-array-utils@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "@wojtekmaj/async-array-utils@npm:2.0.0"
+  checksum: 00a21da574046f6d7f97e1f132e0d569924d21dcdb21d09858f59119ef1616e889497cf5f8e7c2a1011aab91ec136f59b60d0e36562fafc8e54fd8afe7db573f
   languageName: node
   linkType: hard
 
@@ -3127,7 +3127,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "enzyme-test-suite@workspace:test"
   dependencies:
-    "@wojtekmaj/async-array-utils": ^1.6.1
+    "@wojtekmaj/async-array-utils": ^2.0.0
     "@wojtekmaj/enzyme-adapter-react-17": "portal:../"
     "@wojtekmaj/enzyme-adapter-utils": ^0.2.0
     create-react-class: ^15.7.0
