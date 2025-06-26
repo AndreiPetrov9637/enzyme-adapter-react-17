@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@wojtekmaj/async-array-utils": "^1.6.1",
+    "@wojtekmaj/async-array-utils": "^2.0.0",
     "@wojtekmaj/enzyme-adapter-react-17": "portal:../",
     "@wojtekmaj/enzyme-adapter-utils": "^0.2.0",
     "create-react-class": "^15.7.0",
